@@ -7,7 +7,6 @@ module CustomRequestConfig
 
   def_delegator :configuration, :user_agent
 
-  module_function
   def configuration
     @configuration ||= OpenStruct.new
   end
