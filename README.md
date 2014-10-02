@@ -1,0 +1,1 @@
+# HTTP USER AGENTをごにょごにょするサンプル
